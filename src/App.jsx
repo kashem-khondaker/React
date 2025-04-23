@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 
-// import Effect from "./components/Effect";
-import ApiFatch from "./components/ApiFatch";
+import Form from "./components/Form";
 
 function App() {
   return (
     <>
       {/* <Effect/> */}
-      <ApiFatch/>
+      {/* <ApiFatch/> */}
+      <Form/>
     </>
   );
 }
